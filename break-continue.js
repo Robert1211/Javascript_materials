@@ -8,7 +8,7 @@ for(let i = 0; i<10; i++){
     //   }
     // console.log(i)
 
-//continue
+//continue  nie wstrzymuje naszej petli tylko w okreslonym warunku, a break calkowicie zrywa nasza petle zeby juz nigdy sie nie wykonala
 if(i === 4 || i == 6){
     console.log("jest rowne")
 }
