@@ -20,6 +20,7 @@ const value = p.innerText;
 //console.log(img.style.width)
 //pobieranie tekstow z dynamicznych elementow - input
 //console.log(inputName.value)
+//
 
 inputName.addEventListener("keyup", () => {
     console.log(inputName.value)
