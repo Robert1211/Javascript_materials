@@ -20,12 +20,12 @@ const titleGame = localStorage.getItem("title")
 console.log(titleGame);
 
 //usuwanie elementu z localStorage
-localStorage.removeItem("title");
+//localStorage.removeItem("title");
 
 //usuwanie elementow kilka z LocalStorage
-if(confirm("Czy na pewno chcesz usunac dane")){
-    localStorage.clear();
-    alert("Udalo sie wyczyscic dane")
-} else{
-    alert("Nie udalo sie wyczyscic danych")
-}
+// if(confirm("Czy na pewno chcesz usunac dane")){
+//     localStorage.clear();
+//     alert("Udalo sie wyczyscic dane")
+// } else{
+//     alert("Nie udalo sie wyczyscic danych")
+// }
