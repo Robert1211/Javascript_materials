@@ -13,6 +13,7 @@ divElement.style.width = "100px";
 divElement.style.height = "100px";
 divElement.style.backgroundColor = "red";
 
+
 const p = document.createElement("p");
 p.innerText = "Nowy super paragraf!!!!!!!"  //polecenie aby dodac text do p
 
