@@ -7,6 +7,9 @@ function removeItem(e) {
 }  //funcja zwiazana z usuwaniem elementu remove item
 
 
+
+
+
 // e - skrot od event
 //nasluchiwanie zdarzenia czy uzytkownik cokolwiek wpisal w input
 //uzyjemy keyup - kiedy uzytkownik pusci przycisk to otzrymamy nasza wartosc
