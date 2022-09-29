@@ -16,5 +16,6 @@ const obiekt2 = new DrugaKlasa();
 
 console.log(obiekt1.druga())
 
+
 //mozna powiedziec hej javascript chcemy aby Pierwszaklasa posiadal wszystkie metody co posiada Drugaklasa
 //do rozrzeszenia klasy sluzy slowko extends
