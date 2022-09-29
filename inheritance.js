@@ -10,6 +10,7 @@ class PierwszaKlasa extends DrugaKlasa {
     }
 }
 
+
 //stworzenie dwoch obiektow
 const obiekt1 = new PierwszaKlasa();
 const obiekt2 = new DrugaKlasa();
