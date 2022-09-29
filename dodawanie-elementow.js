@@ -7,7 +7,6 @@
 const form = document.querySelector("form")
 const boxBand = document.querySelector("div#band")
 
-
 const divElement = document.createElement("div");  //stworzenie elementu div
 divElement.style.width = "100px";
 divElement.style.height = "100px";
