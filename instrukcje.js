@@ -4,8 +4,7 @@ const wiek = 35;
 const zwierzeta = "kot"
 
 
-
-
+const
 // if(plec == "kobieta") {
 //     console.log("Hej wiew, ze jestes kobieta")
 // } else if(plec == "robot"){
