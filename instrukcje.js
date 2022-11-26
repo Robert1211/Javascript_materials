@@ -3,7 +3,6 @@ const plec = "robot"; //tu moze byc: menszczyzna, kobieta, robot
 const wiek = 35;
 const zwierzeta = "kot"
 
-
 // if(plec == "kobieta") {
 //     console.log("Hej wiew, ze jestes kobieta")
 // } else if(plec == "robot"){
